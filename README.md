@@ -14,6 +14,16 @@ Top rating projects with different countries.
 Month duration and hourly rate analysis.
 Different gender vs different skill analysis.
 Visualization.
+# Key Features :
+Handling inconsisten data
+Data cleaning and Preparation
+Descriptive Statistics
+Pivot table summarization
+Visualization and Dashboard creation
+# Tools and Technologies used:
+Microsoft Excel 365
+Analysis Toolpak
+Pivot tables and charts
 # Conclusion
 Once the dataset is ready we can create an attractive dashboard to find out the top rated projects in different countries.
 Using pivot table we can create charts and dashboards. once it ready organize all the charts in single sheet.
