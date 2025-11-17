@@ -16,6 +16,7 @@ Different gender vs different skill analysis.
 Visualization.
 # Key Features :
 Handling inconsisten data
+
 Data cleaning and Preparation
 Descriptive Statistics
 Pivot table summarization
