@@ -15,12 +15,16 @@ Month duration and hourly rate analysis.
 Different gender vs different skill analysis.
 Visualization.
 # Key Features :
-Handling inconsisten data
+Handling inconsisten data.
 
-Data cleaning and Preparation
-Descriptive Statistics
-Pivot table summarization
-Visualization and Dashboard creation
+Data cleaning and Preparation.
+
+Descriptive Statistics.
+
+Pivot table summarization.
+
+Visualization and Dashboard creation.
+
 # Tools and Technologies used:
 Microsoft Excel 365
 Analysis Toolpak
